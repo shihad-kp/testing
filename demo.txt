@@ -1,1 +1,4 @@
-this is just for understanding git
+this is just for understanding git 
+
+
+i a updating this file
